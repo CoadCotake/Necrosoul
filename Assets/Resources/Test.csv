@@ -1,0 +1,3 @@
+ForinKey,Name,Max_Hp,Defense,Move_Speed,Untouchable_Time
+C1,Basic,500,10,1,1
+C2,Guner,100,1,3,0.5

@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &884596159024429192
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 884596159024429194}
+  - component: {fileID: 884596159024429195}
+  m_Layer: 0
+  m_Name: map_system
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &884596159024429194
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 884596159024429192}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -74.637726, y: 24.361198, z: 63.69823}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &884596159024429195
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 884596159024429192}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b2699fbae42ad240bf733eb83e8b522, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  room_create_number: 2
+  room_database:
+  - {fileID: 7793145765751488196, guid: 9f71d4cbf0958764bb1cc9813cd7206d, type: 3}
+  room: []
+  room_pos: []
+  room_database_V3:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  make_wall_check: 0
+  map_making_complete: 1
+  make_map_elemental: 0
+  x: 9
+  x_weight: 0
+  y: 9
+  y_weight: 0
+  event_room_num: 1
+  event_room_P: 0
+  shop_room_num: 0
+  r_List_n:
+  - {fileID: 0}
+  r_List_n2: []
+  item:
+    Foreignkey: 0
+    ItemType: 0
+    Sprite: {fileID: 0}
+    Money: 0
+    Rarity: 
+    Name: 
+    Description: 
+    num: 0
+    Item_Useing: 0
+    SlotNumber: 0
+    parent: {fileID: 0}
+  ItemDatabase: {fileID: 0}
+  r_length_count: 010000000500000001000000

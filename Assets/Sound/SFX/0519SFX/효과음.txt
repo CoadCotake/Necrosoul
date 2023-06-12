@@ -1,0 +1,11 @@
+attacked - 피격 효과음 
+teleport - 뒷부분만 잘라서 텔레포트 효과음
+purchase - 상점 구입 효과음
+dropItem - 적에서 아이템 떨어지는 효과음
+takeItem - 아이템 획득 효과음
+prtalOpen - 포탈 열리면 나오는 안내음
+portalEnter - 포탈 들어가는 소리
+portalExit - 포탈에서 나오는 소리
+
+
+이벤트 ui 효과음 - 미정

@@ -1,0 +1,18 @@
+{
+	"AllRecord" : {
+		"__type" : "KeepActionRecord,Assembly-CSharp",
+		"value" : {
+			"T_EnemyKill" : 0,
+			"T_Money" : 0,
+			"T_Time" : 17.400013,
+			"T_Damge" : 0,
+			"T_Hit" : 0,
+			"T_Died" : 0,
+			"T_ClearStage" : 0,
+			"path" : "C:\/Users\/tph06\/OneDrive\/바탕 화면\/0408_수정버전\/Save\/AllRecord.es3",
+			"Index" : [
+				0,0,0,0,0,0,0,0
+			]
+		}
+	}
+}

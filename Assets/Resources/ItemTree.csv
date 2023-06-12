@@ -1,0 +1,12 @@
+Foreignkey,Name,Image,Description,Rarity,Money,ItemType,,,,
+0,특수 아이템,Ability,특수 능력을 얻습니다!,common,50,2,,,,
+1,소형 회복약,smallPotion,체력을 조금 회복합니다,common,10,3,,,,
+2,중형 회복약,middlePotion,체력을 많이 회복합니다,uncommon,10,3,,,,rarity
+3,대형 회복약,bigPotion,체력을 아주 많이 회복합니다!,uncommon,25,3,,,,common
+4,특대형 회복약,hugePotion,체력을 모두 회복합니다!,rare,25,3,,,,uncommon
+5,사제의 영혼,Hp,체력 +20,uncommon,25,1,,,,rare
+6,기사의 영혼,Armor,방어력 +1,common,50,1,,,,
+7,전사의 영혼,Power,공격력 +1,common,50,1,,,,
+8,격투가의 영혼,Attack_Speed,공격속도 +0.1,common,50,1,,,,
+9,도적의 영혼,Move_Speed,이동속도 +1,common,50,1,,,,
+10,암살자의 영혼,Critical,치명타 확률 +3%,common,50,1,,,,
